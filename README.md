@@ -21,7 +21,7 @@ yarn add sol-comments-parser
 ```javascript
 import { mapComments } from 'sol-comments-parser';
 
-const input = fs.readFileSync(solidityFile, encoding); // By-default used utf-8 
+const input = fs.readFileSync(solidityFile, encoding); // By-default used utf-8
 const result = mapComments(input);
 ```
 
@@ -29,6 +29,11 @@ const result = mapComments(input);
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+## Contributors
+Many thanks to the ones that helped the tool so far. If you are reading this, and have any suggestion to improve, please, do so.
+
+* [zlocate](https://github.com/zlocate)
 
 ## License
 [GPL-3.0](LICENSE.md)
