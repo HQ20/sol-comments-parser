@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/HQ20/sol-comments-parser.svg?branch=master)](https://travis-ci.org/HQ20/sol-comments-parser)
 [![Coverage Status](https://coveralls.io/repos/github/HQ20/sol-comments-parser/badge.svg?branch=master)](https://coveralls.io/github/HQ20/sol-comments-parser?branch=master)
 
+> NOTE: AS WE STARTED CONTRIBUTING TO SOLIDITY PARSER AND WE NOW HAVE COMMENTS PARSER WE CONSIDERED THIS DEPRECATED. SEE https://github.com/obernardovieira/solidity-parser-antlr
 
 This is a solidity comments parser, not to be used alone, but instead, help with any other package.
 
